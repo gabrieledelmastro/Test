@@ -1,3 +1,3 @@
 # Test
-Test new repository \n
+Test new repository 
 I love :pizza:, :coffee: and :mountain:
